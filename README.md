@@ -5,7 +5,7 @@ Data Portfolio
 
 ### Education
 - B.Eng Civil Engineering | Federal University of Agriculture, Abeokuta (_February, 2018_)
-- M.Sc Big Data Analytics (Distinction)| University of Derby (_October 2024_)
+- M.Sc Big Data Analytics (Distinction) | University of Derby (_October 2024_)
 
   ### Work Experience
   Business Data Analyst at Seliat Corporate Services
